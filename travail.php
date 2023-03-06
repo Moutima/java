@@ -24,7 +24,7 @@
     }
 </script> 
 
-<h1>Calcul du factoriel</h1>
+
 <button onclick"calculerfactoriel()">calculer le factoriel</button>
 
 
