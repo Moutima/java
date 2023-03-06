@@ -25,7 +25,7 @@
 </script> 
 
 
-<button onclick"calculerfactoriel()">calculer le factoriel</button>
+<button onclick"calculerfactoriel ()">calculer le factoriel</button>
 
 
 </body>
