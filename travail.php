@@ -16,7 +16,7 @@
         let factoriel = 1;
         for (let i=1; 1 <= n; 1++) {
             factoriel = i;
-        
+            //dd
         
         }
         
